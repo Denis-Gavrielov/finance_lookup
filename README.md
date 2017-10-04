@@ -10,6 +10,3 @@ It prints the progress on scraping finance.yahoo in the text editor. After 10 at
 to request the news stories or press releases it will skip this task. 
 
 Note that the programme is done for my productivity and not to look fancy. 
-
-If you want to reach out or are testing this programme and have any recommendations 
-then please let me know via email (d.gavrielov@icloud.com). 
